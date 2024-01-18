@@ -14,10 +14,15 @@ Then, this is hopefully a solution for you!
 # Features
 
 -Customizable list of things to do in a day
+
 -Customizable list of tasks/to-do 
+
 -Daily notes to express thoughts throughout the day
+
 -Time tracker 
+
 -Daily mood scale
+
 -Find the most productive time of the day
 
 # UML Diagrams
